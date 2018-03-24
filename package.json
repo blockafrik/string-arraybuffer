@@ -1,0 +1,23 @@
+{
+  "name": "string-arraybuffer",
+  "version": "0.0.2",
+  "description": "A npm module for easy conversion from string to arraybuffer and from arraybuffer to string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blockafrik/string-arraybuffer.git"
+  },
+  "keywords": [
+    "String",
+    "arraybuffer"
+  ],
+  "author": "Andrews Agyemang Opoku",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blockafrik/string-arraybuffer/issues"
+  },
+  "homepage": "https://github.com/blockafrik/string-arraybuffer#readme"
+}
