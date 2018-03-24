@@ -17,11 +17,11 @@ $ npm install string-arraybuffer
 ```js
 const string_arraybuffer = require('string-arraybuffer');
 
-#### Converting String to ArrayBuffer
+####Converting String to ArrayBuffer
 string_arraybuffer.str2ab("I love Africa")
 //=> Uint8Array [ 73, 32, 108, 111, 118, 101, 32, 65, 102, 114, 105, 99, 97 ]
 
-#### Converting ArrayBuffer to String
+####Converting ArrayBuffer to String
 //=> "I love Africa"
 ```
 
